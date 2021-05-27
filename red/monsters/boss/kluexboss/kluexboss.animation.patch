@@ -1,0 +1,122 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/properties/image",
+    "value": "<partImage>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "<partImage>:<colorState>.idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/colorwindup/properties/image",
+    "value": "<partImage>:<colorState>.colorwindup.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/colorwinddown/properties/image",
+    "value": "<partImage>:<colorState>.colorwinddown.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/fastattack/properties/image",
+    "value": "<partImage>:<colorState>.attack.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/attack/properties/image",
+    "value": "<partImage>:<colorState>.attack.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/spinwindup/properties/image",
+    "value": "<partImage>:<colorState>.spinwindup.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/spin/properties/image",
+    "value": "<partImage>:<colorState>.spin.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/spinwinddown/properties/image",
+    "value": "<partImage>:<colorState>.spinwinddown.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/damage/stunned/properties/image",
+    "value": "<partImage>:<colorState>.idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/properties/image",
+    "value": "<partImage>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/idle/properties/image",
+    "value": "<partImage>:<colorState>.idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/colorwindup/properties/image",
+    "value": "<partImage>:<colorState>.colorwindup.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/colorwinddown/properties/image",
+    "value": "<partImage>:<colorState>.colorwinddown.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/fastattack/properties/image",
+    "value": "<partImage>:<colorState>.attack.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/attack/properties/image",
+    "value": "<partImage>:<colorState>.attack.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/spinwindup/properties/image",
+    "value": "<partImage>:<colorState>.spinwindup.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/spin/properties/image",
+    "value": "<partImage>:<colorState>.spin.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/spinwinddown/properties/image",
+    "value": "<partImage>:<colorState>.spinwinddown.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/damage/stunned/properties/image",
+    "value": "<partImage>:<colorState>.idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lavaplume/partStates/lava/windup/properties/image",
+    "value": "<partImage>:windup.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lavaplume/partStates/lava/fire/properties/image",
+    "value": "<partImage>:fire.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lavaplume/partStates/lava/winddown/properties/image",
+    "value": "<partImage>:winddown.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/spinvortex/partStates/vortex/spin/properties/image",
+    "value": "<partImage>:spin.<frame>?setcolor=F00"
+  }
+]

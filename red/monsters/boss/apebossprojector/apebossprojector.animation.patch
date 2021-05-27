@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/projector/partStates/projector/idle/properties/image",
+    "value": "<partImage>:<health>.idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/projector/partStates/projector/fired/properties/image",
+    "value": "<partImage>:<health>.fired.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/projector/partStates/projector/heal/properties/image",
+    "value": "<partImage>:heal.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/booster/partStates/booster/on/properties/image",
+    "value": "<partImage>:on.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lamp/properties/image",
+    "value": "<partImage>:<health>?setcolor=F00"
+  }
+]

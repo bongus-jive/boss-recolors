@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/properties/image",
+    "value": "<partImage>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/spawnidle/properties/image",
+    "value": "<partImage>:spawnidle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "<partImage>:<stage>.idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/glitch/properties/image",
+    "value": "<partImage>:<stage>.glitch.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/windup/properties/image",
+    "value": "<partImage>:<stage>.windup.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/attack/properties/image",
+    "value": "<partImage>:<stage>.attack.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/winddown/properties/image",
+    "value": "<partImage>:<stage>.winddown.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/firewindup/properties/image",
+    "value": "<partImage>:<stage>.firewindup.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/fire/properties/image",
+    "value": "<partImage>:<stage>.fire.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/firewinddown/properties/image",
+    "value": "<partImage>:<stage>.firewinddown.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/death/properties/image",
+    "value": "<partImage>:death.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/damage/stunned/properties/image",
+    "value": "<partImage>:stage4.idle.<frame>?setcolor=F00"
+  }
+]

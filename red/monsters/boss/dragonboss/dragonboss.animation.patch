@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/fly/properties/image",
+    "value": "<partImage>:<stage>.fly.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/slam/properties/image",
+    "value": "<partImage>:<stage>.slam.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/attack/idle/properties/image",
+    "value": "<partImage>:<stage>.idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/attack/attack/properties/image",
+    "value": "<partImage>:<stage>.attack.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/attack/winddown/properties/image",
+    "value": "<partImage>:<stage>.winddown.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/attack/dying/properties/image",
+    "value": "<partImage>:<stage>.idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/attack/dyingcry/properties/image",
+    "value": "<partImage>:<stage>.attack.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headlit/partStates/attack/idle/properties/image",
+    "value": "<partImage>:<stage>.idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headlit/partStates/attack/attack/properties/image",
+    "value": "<partImage>:<stage>.attack.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headlit/partStates/attack/winddown/properties/image",
+    "value": "<partImage>:<stage>.winddown.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headlit/partStates/attack/dying/properties/image",
+    "value": "<partImage>:<stage>.idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headlit/partStates/attack/dyingcry/properties/image",
+    "value": "<partImage>:<stage>.attack.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beamoutBase/partStates/teleport/beamOut/properties/image",
+    "value": "/animations/teleport/playerwarpout.png:<frame>?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beamoutBeam/partStates/teleport/beamOut/properties/image",
+    "value": "/animations/teleport/playerwarpoutbeam.png:<frame>?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF?scalenearest=1;60;?setcolor=F00"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/falling/properties/image",
+    "value": "/monsters/boss/swansong/noxcapture.png:falling.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "/monsters/boss/swansong/noxcapture.png:idle.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/capture/properties/image",
+    "value": "/monsters/boss/swansong/noxcapture.png:capture.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/cuffs/partStates/cuffs/activate/properties/image",
+    "value": "/items/active/unsorted/handcuffs/handcuffs.png:beamin?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/cuffs/partStates/cuffs/active/properties/image",
+    "value": "/items/active/unsorted/handcuffs/handcuffs.png:active.<frame>?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/cuffsfullbright/partStates/cuffs/activate/properties/image",
+    "value": "/items/active/unsorted/handcuffs/handcuffsfullbright.png:beamin?setcolor=F00"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/cuffsfullbright/partStates/cuffs/active/properties/image",
+    "value": "/items/active/unsorted/handcuffs/handcuffsfullbright.png:active.<frame>?setcolor=F00"
+  }
+]
