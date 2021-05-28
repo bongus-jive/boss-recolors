@@ -1,0 +1,112 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/cocoon/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/breakout/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/die/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/fire/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/slam/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/hurt/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/dead/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/cocoon/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/walk/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/walkback/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/die/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/hurt/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/slam/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/rotate/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/strafeleft/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/straferight/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shell/partStates/shell/stage1/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shell/partStates/shell/stage2/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shell/partStates/shell/stage3/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shell/partStates/shell/invisible/properties/image",
+    "value": "/soy.png"
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/init/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/spawn/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idlegrav/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/rocketwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/rocketloop/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/rocketwinddown/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/final/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/init/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/spawn/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/idlegrav/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/rocketwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/rocketloop/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/rocketwinddown/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/spawn/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/boost/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/swordwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/swordloop/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/swordwinddown/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/spawn/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/boost/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/swordwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/swordloop/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/swordwinddown/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/chargeswoosh/partStates/chargeswoosh/active/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/spawn/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/boost/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/firewindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/fireidle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/fire/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/fireend/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/spawn/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/boost/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/firewindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/fireidle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/fire/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/fireend/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/spawn/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/beamwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/beamloop/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/beamwinddown/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/broken/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wingsfullbright/partStates/wings/spawn/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wingsfullbright/partStates/wings/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wingsfullbright/partStates/wings/beamwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wingsfullbright/partStates/wings/beamloop/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wingsfullbright/partStates/wings/beamwinddown/properties/image",
+    "value": "/soy.png"
+  }
+]

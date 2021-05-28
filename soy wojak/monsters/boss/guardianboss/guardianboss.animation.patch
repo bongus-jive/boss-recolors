@@ -1,0 +1,242 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/activate/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/active/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/deactivate/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/activate/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/active/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/deactivate/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/head/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/head/activate/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/head/active/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/head/deactivate/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headfullbright/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headfullbright/partStates/head/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headfullbright/partStates/head/activate/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headfullbright/partStates/head/active/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headfullbright/partStates/head/deactivate/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/hip/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/closed/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/open/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/opened/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/close/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/closed/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/open/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/opened/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/close/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/closed/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/open/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/opened/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/close/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/closed/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/open/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/opened/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/close/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/swoosh/partStates/swoosh/active/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/rightleg/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/leftleg/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shield/partStates/shield/active/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shield/partStates/shield/hit/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shield/partStates/shield/pierce/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shield/partStates/shield/off/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shieldfullbright/partStates/shield/active/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shieldfullbright/partStates/shield/hit/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shieldfullbright/partStates/shield/pierce/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shieldfullbright/partStates/shield/off/properties/image",
+    "value": "/soy.png"
+  }
+]

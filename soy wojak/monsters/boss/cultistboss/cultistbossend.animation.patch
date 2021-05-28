@@ -1,0 +1,237 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/intro/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/introbeam/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/jump/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/fall/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/beamout/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/invisible/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/beamin/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/dashwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/dash/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/spherein/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/sphere/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/sphereout/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/flyingslash/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/exhaustin/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/exhaust/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/exhaustout/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/beamwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/beam/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/beamwinddown/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/slash/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/slashout/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/intro/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/introbeam/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/idle/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/jump/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/fall/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/beamout/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/invisible/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/beamin/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/dashwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/dash/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/spherein/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/sphere/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/sphereout/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/flyingslash/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/exhaustin/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/exhaust/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/exhaustout/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/beamwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/beam/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/beamwinddown/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/slash/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/slashout/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beam/partStates/body/beamwindup/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beam/partStates/body/beam/properties/image",
+    "value": "/soy.png"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beam/partStates/body/beamwinddown/properties/image",
+    "value": "/soy.png"
+  }
+]
