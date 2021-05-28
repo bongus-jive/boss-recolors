@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/despawn/properties/image",
+    "value": "<partImage>:despawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/blorb/properties/image",
+    "value": "/monsters/boss/guardianminion/parts/blorb.png:<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/despawn/properties/image",
+    "value": "<partImage>:despawn.<frame>?setcolor=FF0"
+  }
+]

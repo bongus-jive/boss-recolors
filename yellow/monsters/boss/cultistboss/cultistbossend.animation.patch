@@ -1,0 +1,237 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/intro/properties/image",
+    "value": "<partImage>:intro.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/introbeam/properties/image",
+    "value": "<partImage>:introbeam.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/jump/properties/image",
+    "value": "<partImage>:jump.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/fall/properties/image",
+    "value": "<partImage>:fall.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/beamout/properties/image",
+    "value": "<partImage>:beamout.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/invisible/properties/image",
+    "value": "<partImage>:invisible.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/beamin/properties/image",
+    "value": "<partImage>:beamin.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/dashwindup/properties/image",
+    "value": "<partImage>:dashwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/dash/properties/image",
+    "value": "<partImage>:dash.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/spherein/properties/image",
+    "value": "<partImage>:spherein.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/sphere/properties/image",
+    "value": "<partImage>:sphere.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/sphereout/properties/image",
+    "value": "<partImage>:sphereout.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/flyingslash/properties/image",
+    "value": "<partImage>:flyingslash.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/exhaustin/properties/image",
+    "value": "<partImage>:exhaustin.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/exhaust/properties/image",
+    "value": "<partImage>:exhaust.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/exhaustout/properties/image",
+    "value": "<partImage>:exhaustout.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/beamwindup/properties/image",
+    "value": "<partImage>:beamwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/beam/properties/image",
+    "value": "<partImage>:beam.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/beamwinddown/properties/image",
+    "value": "<partImage>:beamwinddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/slash/properties/image",
+    "value": "<partImage>:slash.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/slashout/properties/image",
+    "value": "<partImage>:slashout.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/intro/properties/image",
+    "value": "<partImage>:intro.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/introbeam/properties/image",
+    "value": "<partImage>:introbeam.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/jump/properties/image",
+    "value": "<partImage>:jump.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/fall/properties/image",
+    "value": "<partImage>:fall.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/beamout/properties/image",
+    "value": "<partImage>:beamout.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/invisible/properties/image",
+    "value": "<partImage>:invisible.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/beamin/properties/image",
+    "value": "<partImage>:beamin.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/dashwindup/properties/image",
+    "value": "<partImage>:dashwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/dash/properties/image",
+    "value": "<partImage>:dash.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/spherein/properties/image",
+    "value": "<partImage>:spherein.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/sphere/properties/image",
+    "value": "<partImage>:sphere.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/sphereout/properties/image",
+    "value": "<partImage>:sphereout.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/flyingslash/properties/image",
+    "value": "<partImage>:flyingslash.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/exhaustin/properties/image",
+    "value": "<partImage>:exhaustin.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/exhaust/properties/image",
+    "value": "<partImage>:exhaust.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/exhaustout/properties/image",
+    "value": "<partImage>:exhaustout.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/beamwindup/properties/image",
+    "value": "<partImage>:beamwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/beam/properties/image",
+    "value": "<partImage>:beam.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/beamwinddown/properties/image",
+    "value": "<partImage>:beamwinddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/slash/properties/image",
+    "value": "<partImage>:slash.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodylit/partStates/body/slashout/properties/image",
+    "value": "<partImage>:slashout.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beam/partStates/body/beamwindup/properties/image",
+    "value": "<partImage>:beamwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beam/partStates/body/beam/properties/image",
+    "value": "<partImage>:beam.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beam/partStates/body/beamwinddown/properties/image",
+    "value": "<partImage>:beamwinddown.<frame>?setcolor=FF0"
+  }
+]

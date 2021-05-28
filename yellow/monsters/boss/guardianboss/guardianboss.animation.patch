@@ -1,0 +1,242 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/properties/image",
+    "value": "<partImage>:idle.1?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/activate/properties/image",
+    "value": "<partImage>:activate.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/active/properties/image",
+    "value": "<partImage>:active.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/deactivate/properties/image",
+    "value": "<partImage>:deactivate.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/properties/image",
+    "value": "<partImage>:idle.1?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/activate/properties/image",
+    "value": "<partImage>:activate.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/active/properties/image",
+    "value": "<partImage>:active.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/deactivate/properties/image",
+    "value": "<partImage>:deactivate.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/properties/image",
+    "value": "<partImage>:idle.1?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/head/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/head/activate/properties/image",
+    "value": "<partImage>:activate.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/head/active/properties/image",
+    "value": "<partImage>:active.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/head/partStates/head/deactivate/properties/image",
+    "value": "<partImage>:deactivate.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headfullbright/properties/image",
+    "value": "<partImage>:idle.1?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headfullbright/partStates/head/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headfullbright/partStates/head/activate/properties/image",
+    "value": "<partImage>:activate.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headfullbright/partStates/head/active/properties/image",
+    "value": "<partImage>:active.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/headfullbright/partStates/head/deactivate/properties/image",
+    "value": "<partImage>:deactivate.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/hip/properties/image",
+    "value": "<partImage>:idle.1?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/closed/properties/image",
+    "value": "<partImage>:closed.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/open/properties/image",
+    "value": "<partImage>:open.<frame><rhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/opened/properties/image",
+    "value": "<partImage>:opened.<frame><rhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/close/properties/image",
+    "value": "<partImage>:close.<frame><rhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/closed/properties/image",
+    "value": "<partImage>:closed.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/open/properties/image",
+    "value": "<partImage>:open.<frame><rhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/opened/properties/image",
+    "value": "<partImage>:opened.<frame><rhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/close/properties/image",
+    "value": "<partImage>:close.<frame><rhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/closed/properties/image",
+    "value": "<partImage>:closed.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/open/properties/image",
+    "value": "<partImage>:open.<frame><lhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/opened/properties/image",
+    "value": "<partImage>:opened.<frame><lhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/close/properties/image",
+    "value": "<partImage>:close.<frame><lhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/closed/properties/image",
+    "value": "<partImage>:closed.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/open/properties/image",
+    "value": "<partImage>:open.<frame><lhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/opened/properties/image",
+    "value": "<partImage>:opened.<frame><lhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/close/properties/image",
+    "value": "<partImage>:close.<frame><lhflip>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/swoosh/partStates/swoosh/active/properties/image",
+    "value": "<partImage>:<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/rightleg/properties/image",
+    "value": "<partImage>:idle.1?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/leftleg/properties/image",
+    "value": "<partImage>:idle.1?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shield/partStates/shield/active/properties/image",
+    "value": "<partImage>:active.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shield/partStates/shield/hit/properties/image",
+    "value": "<partImage>:hit.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shield/partStates/shield/pierce/properties/image",
+    "value": "<partImage>:pierce.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shield/partStates/shield/off/properties/image",
+    "value": "<partImage>:off.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shieldfullbright/partStates/shield/active/properties/image",
+    "value": "<partImage>:active.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shieldfullbright/partStates/shield/hit/properties/image",
+    "value": "<partImage>:hit.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shieldfullbright/partStates/shield/pierce/properties/image",
+    "value": "<partImage>:pierce.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shieldfullbright/partStates/shield/off/properties/image",
+    "value": "<partImage>:off.<frame>?setcolor=FF0"
+  }
+]

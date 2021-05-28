@@ -1,0 +1,82 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/properties/image",
+    "value": "<partImage>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "<partImage>:<colorState>.idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/attack/properties/image",
+    "value": "<partImage>:<colorState>.windup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/winddown/properties/image",
+    "value": "<partImage>:<colorState>.winddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/fastattack/properties/image",
+    "value": "<partImage>:<colorState>.windup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/fastwinddown/properties/image",
+    "value": "<partImage>:<colorState>.winddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/colorwindup/properties/image",
+    "value": "<partImage>:<colorState>.windup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/colorwinddown/properties/image",
+    "value": "<partImage>:<colorState>.winddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/properties/image",
+    "value": "<partImage>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/idle/properties/image",
+    "value": "<partImage>:<colorState>.idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/attack/properties/image",
+    "value": "<partImage>:<colorState>.windup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/winddown/properties/image",
+    "value": "<partImage>:<colorState>.winddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/fastattack/properties/image",
+    "value": "<partImage>:<colorState>.windup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/fastwinddown/properties/image",
+    "value": "<partImage>:<colorState>.winddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/colorwindup/properties/image",
+    "value": "<partImage>:<colorState>.windup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/colorwinddown/properties/image",
+    "value": "<partImage>:<colorState>.winddown.<frame>?setcolor=FF0"
+  }
+]

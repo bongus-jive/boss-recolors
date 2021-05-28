@@ -1,0 +1,267 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/init/properties/image",
+    "value": "<partImage>:init.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idlegrav/properties/image",
+    "value": "<partImage>:idlegrav.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/rocketwindup/properties/image",
+    "value": "<partImage>:rocketwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/rocketloop/properties/image",
+    "value": "<partImage>:rocketloop.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/rocketwinddown/properties/image",
+    "value": "<partImage>:rocketwinddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/final/properties/image",
+    "value": "<partImage>:final.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/init/properties/image",
+    "value": "<partImage>:init.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/idlegrav/properties/image",
+    "value": "<partImage>:idlegrav.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/rocketwindup/properties/image",
+    "value": "<partImage>:rocketwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/rocketloop/properties/image",
+    "value": "<partImage>:rocketloop.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/bodyfullbright/partStates/body/rocketwinddown/properties/image",
+    "value": "<partImage>:rocketwinddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/boost/properties/image",
+    "value": "<partImage>:boost.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/swordwindup/properties/image",
+    "value": "<partImage>:swordwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/swordloop/properties/image",
+    "value": "<partImage>:swordloop.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthand/partStates/lefthand/swordwinddown/properties/image",
+    "value": "<partImage>:swordwinddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/boost/properties/image",
+    "value": "<partImage>:boost.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/swordwindup/properties/image",
+    "value": "<partImage>:swordwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/swordloop/properties/image",
+    "value": "<partImage>:swordloop.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/lefthandfullbright/partStates/lefthand/swordwinddown/properties/image",
+    "value": "<partImage>:swordwinddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/chargeswoosh/partStates/chargeswoosh/active/properties/image",
+    "value": "<partImage>:active.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/boost/properties/image",
+    "value": "<partImage>:boost.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/firewindup/properties/image",
+    "value": "<partImage>:firewindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/fireidle/properties/image",
+    "value": "<partImage>:fireidle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/fire/properties/image",
+    "value": "<partImage>:fire.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthand/partStates/righthand/fireend/properties/image",
+    "value": "<partImage>:fireend.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/boost/properties/image",
+    "value": "<partImage>:boost.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/firewindup/properties/image",
+    "value": "<partImage>:firewindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/fireidle/properties/image",
+    "value": "<partImage>:fireidle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/fire/properties/image",
+    "value": "<partImage>:fire.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/righthandfullbright/partStates/righthand/fireend/properties/image",
+    "value": "<partImage>:fireend.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/beamwindup/properties/image",
+    "value": "<partImage>:beamwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/beamloop/properties/image",
+    "value": "<partImage>:beamloop.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/beamwinddown/properties/image",
+    "value": "<partImage>:beamwinddown.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wings/partStates/wings/broken/properties/image",
+    "value": "<partImage>:broken.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wingsfullbright/partStates/wings/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wingsfullbright/partStates/wings/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wingsfullbright/partStates/wings/beamwindup/properties/image",
+    "value": "<partImage>:beamwindup.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wingsfullbright/partStates/wings/beamloop/properties/image",
+    "value": "<partImage>:beamloop.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/wingsfullbright/partStates/wings/beamwinddown/properties/image",
+    "value": "<partImage>:beamwinddown.<frame>?setcolor=FF0"
+  }
+]

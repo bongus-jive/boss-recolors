@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/ufo/partStates/movement/flying/properties/image",
+    "value": "<partImage>:flying.<frame>?setcolor=FF0"
+  }
+]

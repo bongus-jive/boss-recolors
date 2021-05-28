@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/idle/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/walk/properties/image",
+    "value": "<partImage>:walk.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/aim/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/backArm/partStates/movement/idle/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/backArm/partStates/movement/walk/properties/image",
+    "value": "<partImage>:walk.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/backArm/partStates/movement/aim/properties/image",
+    "value": "<partImage>:aim?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/frontArm/partStates/movement/idle/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/frontArm/partStates/movement/walk/properties/image",
+    "value": "<partImage>:walk.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/frontArm/partStates/movement/aim/properties/image",
+    "value": "<partImage>:aim?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/chest/partStates/movement/idle/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/chest/partStates/movement/walk/properties/image",
+    "value": "<partImage>:walk.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/chest/partStates/movement/aim/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/helm/partStates/movement/idle/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/helm/partStates/movement/walk/properties/image",
+    "value": "<partImage>:walk.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/helm/partStates/movement/aim/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/weapon/partStates/movement/idle/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/weapon/partStates/movement/walk/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/weapon/partStates/movement/aim/properties/image",
+    "value": "<partImage>:idle?setcolor=FF0"
+  }
+]

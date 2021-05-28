@@ -1,0 +1,112 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/cocoon/properties/image",
+    "value": "<partImage>:cocoon.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/breakout/properties/image",
+    "value": "<partImage>:breakout.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/die/properties/image",
+    "value": "<partImage>:die.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/fire/properties/image",
+    "value": "<partImage>:fire.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/slam/properties/image",
+    "value": "<partImage>:slam.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/hurt/properties/image",
+    "value": "<partImage>:hurt.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/body/dead/properties/image",
+    "value": "<partImage>:dead.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/cocoon/properties/image",
+    "value": "<partImage>:cocoon.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/walk/properties/image",
+    "value": "<partImage>:walk.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/walkback/properties/image",
+    "value": "<partImage>:walkback.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/die/properties/image",
+    "value": "<partImage>:die.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/hurt/properties/image",
+    "value": "<partImage>:hurt.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/slam/properties/image",
+    "value": "<partImage>:slam.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/rotate/properties/image",
+    "value": "<partImage>:rotate.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/strafeleft/properties/image",
+    "value": "<partImage>:strafeleft.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/legs/partStates/legs/straferight/properties/image",
+    "value": "<partImage>:straferight.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shell/partStates/shell/stage1/properties/image",
+    "value": "<partImage>:stage1.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shell/partStates/shell/stage2/properties/image",
+    "value": "<partImage>:stage2.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shell/partStates/shell/stage3/properties/image",
+    "value": "<partImage>:stage3.<frame>?setcolor=FF0"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/shell/partStates/shell/invisible/properties/image",
+    "value": "<partImage>:invisible.<frame>?setcolor=FF0"
+  }
+]
