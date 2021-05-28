@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/ufo/partStates/movement/visible/properties/image",
+    "value": "<partImage>:<phase>.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/pilot/partStates/movement/visible/properties/image",
+    "value": "<partImage>:idle?setcolor=b00b69"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/arm/partStates/movement/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/arm/partStates/movement/move/properties/image",
+    "value": "<partImage>:move.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/arm/partStates/movement/punch/properties/image",
+    "value": "<partImage>:move.1?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/arm/partStates/movement/windup/properties/image",
+    "value": "<partImage>:move.1?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/arm/partStates/movement/charge/properties/image",
+    "value": "<partImage>:move.1?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/arm/partStates/movement/winddown/properties/image",
+    "value": "<partImage>:move.1?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/arm/partStates/flamethrower/windup/properties/image",
+    "value": "<partImage>:windup.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/arm/partStates/flamethrower/firing/properties/image",
+    "value": "<partImage>:fire.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/arm/partStates/flamethrower/winddown/properties/image",
+    "value": "<partImage>:winddown.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/move/properties/image",
+    "value": "<partImage>:move.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/punch/properties/image",
+    "value": "<partImage>:punch.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/windup/properties/image",
+    "value": "<partImage>:windup.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/charge/properties/image",
+    "value": "<partImage>:charge.<frame>?setcolor=b00b69"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/body/partStates/movement/winddown/properties/image",
+    "value": "<partImage>:winddown.<frame>?setcolor=b00b69"
+  }
+]
