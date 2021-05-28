@@ -1,0 +1,177 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/back/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/biome/properties/image",
+    "value": "<partImage>:<biome>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eye/partStates/eye/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eye/partStates/eye/dying/properties/image",
+    "value": "<partImage>:dying.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eye/partStates/eye/dyingloop/properties/image",
+    "value": "<partImage>:dyingloop.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eye/partStates/eye/sweep/properties/image",
+    "value": "<partImage>:sweep.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eye/partStates/eye/windup/properties/image",
+    "value": "<partImage>:windup.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eye/partStates/eye/fire/properties/image",
+    "value": "<partImage>:fire.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eye/partStates/eye/winddown/properties/image",
+    "value": "<partImage>:winddown.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eye/partStates/eye/spawnwindup/properties/image",
+    "value": "<partImage>:spawnwindup.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eye/partStates/eye/spawn/properties/image",
+    "value": "<partImage>:spawn.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eye/partStates/eye/spawnwinddown/properties/image",
+    "value": "<partImage>:spawnwinddown.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eyelit/partStates/eye/dying/properties/image",
+    "value": "<partImage>:dying.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eyelit/partStates/eye/dyingloop/properties/image",
+    "value": "<partImage>:dyingloop.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eyelit/partStates/eye/windup/properties/image",
+    "value": "<partImage>:windup.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eyelit/partStates/eye/fire/properties/image",
+    "value": "<partImage>:fire.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eyelit/partStates/eye/winddown/properties/image",
+    "value": "<partImage>:winddown.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/heartleft/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/heartmiddle/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/heartright/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eyelid/partStates/blink/idle/properties/image",
+    "value": "<partImage>:idle.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eyelid/partStates/blink/blink/properties/image",
+    "value": "<partImage>:blink.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eyelid/partStates/blink/open/properties/image",
+    "value": "<partImage>:open.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eyelid/partStates/blink/close/properties/image",
+    "value": "<partImage>:close.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/eyelid/partStates/blink/closed/properties/image",
+    "value": "<partImage>:closed.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/backleft/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/backright/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/middleleft/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/middleright/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/tentaclespacing/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/frontright/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/frontleft/properties/image",
+    "value": "<partImage>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beam/partStates/beam/windup/properties/image",
+    "value": "<partImage>:windup.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beam/partStates/beam/fire/properties/image",
+    "value": "<partImage>:fire.<frame>?setcolor=688b3f"
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/parts/beam/partStates/beam/winddown/properties/image",
+    "value": "<partImage>:winddown.<frame>?setcolor=688b3f"
+  }
+]
