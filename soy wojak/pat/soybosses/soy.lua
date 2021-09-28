@@ -1,10 +1,6 @@
-local oldUpdate = update
-
 local soyTimer = math.random(120, 300)
 
 function update(dt)
-	oldUpdate(dt)
-	
 	soyTimer = math.max(0, soyTimer - dt)
 	
 	if soyTimer == 0 then

@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/companionsConfig/scripts/-",
+    "path": "/genericScriptContexts/bosscolor_soy",
     "value": "/pat/soybosses/soy.lua"
   }
 ]
